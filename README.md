@@ -1,4 +1,5 @@
 # The Recipe Collective
-Recipes website<br>
-Read the [Constitution of the Collective](about.md)<br>
-View [Recipes List](recipeshome.md)
+Recipes website  
+Read the [Constitution of the Collective](about.md)  
+View the [Recipe List](recipelist.md)  
+End
