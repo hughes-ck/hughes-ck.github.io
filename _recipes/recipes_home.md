@@ -1,2 +1,2 @@
 # List of all Recipes
-[Mostaccioli](mostaccioli.md)
+[Mostaccioli](_recipes/mostaccioli.md)
