@@ -1,2 +1,2 @@
-# hughes-ck.github.io
+# Friendship Recipes
 Recipe website
