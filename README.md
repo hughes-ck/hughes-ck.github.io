@@ -1,2 +1,2 @@
 # The Recipe Collective
-Recipe website
+Recipes website
