@@ -1,2 +1,2 @@
-# Friendship Recipes
+# The Recipe Collective
 Recipe website
