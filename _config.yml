@@ -2,26 +2,5 @@ theme: jekyll-theme-minimal
 title: The Recipe Collective
 description: A collection of simple recipes to share. 
 sidebar: generic 
-folders:
-- title: Theme documentation
-  folderitems:
 
-  - title: Homepage
-    jurl: /README.md
-    ref: home
-
-  - title: About
-    jurl: /about.md
-    ref: about
-
-- title: Recipes
-  folderitems:
-
-  - title: Breakfast
-    jurl: /recipelist.md/#Breakfast
-    ref: breakfast
-
-  - title: Sandwiches
-    jurl: /recipelist.md/#Sandwiches
-    ref: sandwiches
 
