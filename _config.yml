@@ -1,16 +1,26 @@
 theme: jekyll-theme-minimal
 title: The Recipe Collective
 description: A collection of simple recipes to share.  
-navigation_links:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about.md"
-  - title: "Breakfast"
-    url: "/recipelist/#Breakfast"
-  - title: "Sandwiches"
-    url: "/recipelist/#Sandwiches"  
-  - title: "Soup"
-    url: "/recipelist/#Soup"  
-  - title: "Pasta"
-    url: "/recipelist/#Pasta"
+folders:
+- title: Theme documentation
+  folderitems:
+
+  - title: Homepage
+    jurl: /README.md
+    ref: home
+
+  - title: About
+    jurl: /about.md
+    ref: about
+
+- title: Recipes
+  folderitems:
+
+  - title: Breakfast
+    jurl: /recipelist.md/#Breakfast
+    ref: breakfast
+
+  - title: Sandwiches
+    jurl: /recipelist.md/#Sandwiches
+    ref: sandwiches
+
