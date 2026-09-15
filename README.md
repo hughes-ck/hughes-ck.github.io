@@ -1,3 +1,8 @@
+---
+layout: default
+title: README
+permalink: /README/
+---
 # The Recipe Collective   
 
 ## Breakfast  
