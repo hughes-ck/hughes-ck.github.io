@@ -1,4 +1,4 @@
-x# Mostaccioli
+# Mostaccioli
 Author: Claire Hughes
 > Ingredients ![level one](./assets/one_dot.png)  
 > Cook Time ![level two](./assets/two_dots.png)  
