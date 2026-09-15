@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: The Recipe Collective
 description: A collection of simple recipes to share. 
-sidebar: mysidebar  
+sidebar: generic 
 folders:
 - title: Theme documentation
   folderitems:
