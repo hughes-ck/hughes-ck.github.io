@@ -1,10 +1,10 @@
 # Recipe List  
-# Breakfast  
-# Sandwiches  
-# Soup  
-# Pasta  
+## Breakfast  
+## Sandwiches  
+## Soup  
+## Pasta  
 [Mostaccioli](mostaccioli.md)  
-# Entree  
-# Sides  
-# Dessert  
-# Appetizer  
+## Entree  
+## Sides  
+## Dessert  
+## Appetizer  
