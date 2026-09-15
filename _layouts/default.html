@@ -22,7 +22,9 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
+        
+        <h2><a href="{{ "/about.md" | absolute_url }}">About</a></h2>
+        
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
@@ -30,11 +32,6 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
-        <ul class="downloads">
-          <li><a href="/about.md"> <strong>About</strong></a></li>
-          <li><a href="/recipelist.md/##Sandwich">Recipes <strong>Sandwich</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
       </header>
       <section>
         {{content}}
