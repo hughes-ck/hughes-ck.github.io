@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: The Recipe Collective
-description: A collection of simple recipes to share  
+description: A collection of simple recipes to share.  
 navigation_links:
   - title: "Home"
     url: "/"
