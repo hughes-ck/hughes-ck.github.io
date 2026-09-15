@@ -1,3 +1,8 @@
+---
+layout: default
+title: RecipeList
+permalink: /recipelist/
+---
 # Recipe List  
 ## Breakfast  
 ## Sandwiches  
