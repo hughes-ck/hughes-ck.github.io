@@ -23,7 +23,7 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
-        <h2><a href="{% link _about.md %}">About</a></h2>
+        <h2><a href="{{ "/about.md" | absolute_url }}">About</a></h2>
         
         {% if site.show_downloads %}
         <ul class="downloads">
