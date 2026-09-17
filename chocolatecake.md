@@ -1,7 +1,7 @@
 # Chocolate Cake
 Author: Claire Hughes
 > Ingredients ![level one](./assets/one_dot.png)  
-> Cook Time ![level one](./assets/one_dots.png)  
+> Cook Time ![level one](./assets/one_dot.png)  
 > Tools ![level one](./assets/one_dot.png)  
 > Technique ![level one](./assets/one_dot.png)  
 
@@ -29,5 +29,4 @@ Author: Claire Hughes
 Makes 2 8-inch round cake pans, or 24 cupcakes  
 
 ## Notes  
-If you don't have buttermilk, can sub 1 cup milk with 1 tablespoon white vineager mixed together.  
-Combine milk and vinegar and let sit a minute before mixing into batter
+If you don't have buttermilk, can sub 1 cup milk with 1 tablespoon white vineager mixed together. Combine milk and vinegar and let sit a minute before mixing into batter
